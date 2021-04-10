@@ -1,4 +1,4 @@
-<img src="https://raw.github.com/mmrmilon/mmrmilon/master/28690641q4g4f.jpg"/>
+<!--<img src="https://raw.github.com/mmrmilon/mmrmilon/master/28690641q4g4f.jpg"/>-->
  <hr></hr>
 <p align="center">
   <samp>
