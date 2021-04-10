@@ -11,7 +11,7 @@
 <p align="center">
   <samp>
     :sparkles: Favorite Tech: Asp.Net C#, JavaScript, Angular JS, React JS... <br>
-    :notebook: I’m currently learning Angular, Typescript and Node JS... 😭  <br>
+    :notebook: I’m currently learning Angular, Typescript and Node JS... :heart_eyes:  <br>
   </samp>
 </p>
 <hr></hr>
