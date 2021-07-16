@@ -7,7 +7,7 @@
 </p>
 <p align="justify">
   <samp>
-    :loudspeaker: I’m a passionate software developer with over 9.5+ years of professional experience to build web applications using the .NET stack maintaining the highest quality standard. Highly productive with effective task management skills and a working knowledge of agile methodologies.
+    :loudspeaker: I’m a passionate software developer with over 10+ years of professional experience to build web applications using the .NET stack maintaining the highest quality standard. Highly productive with effective task management skills and a working knowledge of agile methodologies.
   </samp>
 </p>
 <p align="center">
