@@ -7,12 +7,12 @@
 </p>
 <p align="justify">
   <samp>
-    :loudspeaker: I’m a passionate software developer with over 10+ years of professional experience to build web applications using the .NET stack maintaining the highest quality standard. Highly productive with effective task management skills and a working knowledge of agile methodologies.
+    :loudspeaker: I’m a passionate software developer with over 11+ years of professional experience to build web applications using the .NET stack maintaining the highest quality standard. My diverse technological proficiency enables me to handle an array of challenges with ease and consistently deliver outstanding outcomes. Whether you require a new software solution or an upgrade to an existing one, my extensive skills and experience can assist you in achieving success.
   </samp>
 </p>
 <p align="center">
   <samp>
-    :sparkles: Favorite Tech: Asp.Net C#, JavaScript, Angular JS, React JS... <br>
+    :sparkles: Favorite Tech & Tools: Asp.Net C#, JavaScript, React JS, Angular JS, Azure DevOps... <br>
     :notebook: I’m currently learning Angular, Typescript and Node JS... :heart_eyes:  <br>
   </samp>
 </p>
