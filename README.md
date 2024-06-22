@@ -7,7 +7,7 @@
 </p>
 <p align="justify">
   <samp>
-    :loudspeaker: I’m a passionate software developer with over 11+ years of professional experience to build web applications using the .NET stack maintaining the highest quality standard. My diverse technological proficiency enables me to handle an array of challenges with ease and consistently deliver outstanding outcomes. Whether you require a new software solution or an upgrade to an existing one, my extensive skills and experience can assist you in achieving success.
+    :loudspeaker: I’m a passionate software developer with over 13+ years of professional experience building web applications using the .NET stack maintaining the highest quality standard. My diverse technological proficiency enables me to handle various challenges easily and consistently deliver outstanding outcomes. Whether you require a new software solution or an upgrade to an existing one, my extensive skills and experience can assist you in achieving success.
   </samp>
 </p>
 <p align="center">
