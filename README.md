@@ -13,7 +13,7 @@
 <p align="center">
   <samp>
     :sparkles: Favorite Tech & Tools: Asp.Net C#, MSSQL, EF Core, Dapper ORM, React JS & Angular, Azure Cloud Services, Docker... <br>
-    :notebook: I’m currently learning  Azure OpenAI and ML.Net ... :heart_eyes:  <br>
+    :notebook: I’m currently learning  Azure OpenAI, Generative AI, and Machine Learning .Net (ML.NET) ... :heart_eyes:  <br>
   </samp>
 </p>
 <hr></hr>
