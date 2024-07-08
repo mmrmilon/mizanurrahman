@@ -12,8 +12,8 @@
 </p>
 <p align="center">
   <samp>
-    :sparkles: Favorite Tech & Tools: Asp.Net C#, MSSQL, Dapper ORM, JavaScript, React JS, Azure DevOps... <br>
-    :notebook: I’m currently learning Docker and Azure Cloud Services... :heart_eyes:  <br>
+    :sparkles: Favorite Tech & Tools: Asp.Net C#, MSSQL, EF Core, Dapper ORM, React JS & Angular, Azure Cloud Services, Docker... <br>
+    :notebook: I’m currently learning  Azure OpenAI and ML.Net ... :heart_eyes:  <br>
   </samp>
 </p>
 <hr></hr>
