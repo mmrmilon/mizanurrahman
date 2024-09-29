@@ -100,7 +100,7 @@
 </div>
 <br><br><br>
 
-💼 **Technical Skills**
+### 💼 Technical Skills
 - ✔ Microsoft: C#, ASP.NET Core 2.1, 3.1, 6.0 & 8.0, ASP.NET MVC, REST API
 - ✔ ORM: Entity Framework, Entity Framework Core, LINQ and Dapper
 - ✔ Database: Azure SQL Service, MS SQL, PostgreSQL, MySQL Server and Azure Redis
@@ -111,8 +111,11 @@
 - ✔ IDE: Microsoft Visual Studio, Visual Studio Code
 - ✔ Development Methodologies: Agile, Scrum
 
-🚀 Commitment to Excellence:
-> Throughout my career, I have focused on delivering exceptional results by adhering to industry best practices and following robust development methodologies. I am dedicated to building secure, scalable, and efficient applications that exceed client expectations.
+### 🌱 Continuous Learning
+In the ever-evolving world of technology, I firmly believe in the power of continuous learning and adaptability. I make it a priority to regularly explore emerging technologies, participate in coding challenges, and attend online workshops. This proactive approach to growth not only fuels my passion but also ensures that I stay at the forefront of industry advancements. By staying up-to-date with the latest knowledge and best practices, I'm confident in my ability to tackle any project with a fresh perspective and innovative solutions.
+
+### 🤝 Commitment to Excellence:
+Throughout my career, I have focused on delivering exceptional results by adhering to industry best practices and following robust development methodologies. I am dedicated to building secure, scalable, and efficient applications that exceed client expectations.
 
 
 
