@@ -42,6 +42,7 @@
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff"></a>
 </p>
 
 
@@ -59,33 +60,29 @@
 
 ### Frameworks/Libraries: 
 <div>
- <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" title="Microsoft.NET" alt="Microsoft.NET"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="Dot Net" alt="Dot Net" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="50" height="50"/>&nbsp;
+ <img src="https://img.shields.io/badge/Microsoft.NET-512BD4" title="Microsoft.NET" alt="Microsoft.NET"/>&nbsp;
+ <img src="https://img.shields.io/badge/-.NET%20Core-blueviolet" title="Microsoft.NET" alt="Microsoft.NET"/>&nbsp;
+ <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" title="Nodejs" alt="Nodejs"/>&nbsp;
  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" title="Angular" alt="Angular"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50"/>&nbsp;
  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" title="React" alt="React"/>
+ <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff" title="Redux" alt="Redux"/>
  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" title="Next" alt="Next"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="Codeigniter" alt="Codeigniter" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="NextJS" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
+ <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" title="TailwindCSS" alt="TailwindCSS" />&nbsp;
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" title="Bootstrap" alt="Bootstrap" />&nbsp;
 </div>
 
 ### Tools & Platforms: 
 <div>
- <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" title="Nodejs" alt="Nodejs"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="SVN" alt="SVN" width="50" height="50"/>&nbsp;
+ <img src="https://custom-icon-badges.demolab.com/badge/Azure%20Devops-0089D6?logo=msazure&logoColor=white" title="Azure Services" alt="Azure Services"/>&nbsp;
+ <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" title="Git" alt="Git"/>&nbsp;
+ <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" title="gitlab" alt="gitlab"/>&nbsp;
+ <img src="https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff" title="SVN" alt="SVN"/>&nbsp;
+ <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" title="NuGet" alt="NuGet"/>&nbsp;
  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" title="npm" alt="npm"/>&nbsp;
  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" title="Docker" alt="Docker"/>&nbsp;
  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" title="Kubernetes" alt="Kubernetes"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="Nuget" alt="Nuget" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+ <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" title="Swagger" alt="Swagger"/>&nbsp;
+ <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" title="Postman" alt="Postman"/>&nbsp;
  <img src="https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff" title="Sonar Cloud" alt="Sonar Cloud"/>&nbsp;
 </div>
 
